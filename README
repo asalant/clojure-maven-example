@@ -4,4 +4,12 @@ Based on http://www.learningclojure.com/2010/03/clojure-maven-emacs-eternal-gold
 
   git clone https://github.com/asalant/clojure-maven
   cd clojure-maven
+  
+For repl:
+  
   mvn clojure:repl
+  
+To execute a script:
+  
+  mvn clojure:run -Dclojure.script=src/main/clojure/hello.clj  
+  
