@@ -2,8 +2,8 @@ Baseline Maven project for playing with Closure. Includes Compojure.
 
 Based on http://www.learningclojure.com/2010/03/clojure-maven-emacs-eternal-golden.html using https://github.com/talios/clojure-maven-plugin.
 
-  git clone https://github.com/asalant/clojure-maven
-  cd clojure-maven
+  git clone git://github.com/asalant/clojure-maven-example.git
+  cd clojure-maven-example
   
 For repl:
   
