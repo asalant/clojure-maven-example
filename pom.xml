@@ -5,6 +5,10 @@
   <artifactId>hello-maven-clojure-swank</artifactId>
   <version>1.0-SNAPSHOT</version>
   <name>clojure-maven</name>
+  
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
 
   <repositories>
     <repository>
